@@ -1,3 +1,0 @@
-# This is nothing but a test
-# win 10 Rstudio/ GitHub integration
-fdg
