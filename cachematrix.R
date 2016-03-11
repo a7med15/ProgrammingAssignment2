@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-## Matrix inversion is usually a costly computation and there
-## may be some benefit to caching the inverse of a matrix rather
-## than compute it repeatedly.
 ## The following two functions are used to cache the inverse of a matrix:
 ## 1. The function 'makeCacheMatrix' creats a special "matrix" object
 ##    to catch its invers.
